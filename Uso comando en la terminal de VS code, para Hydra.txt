@@ -1,0 +1,7 @@
+Como usar Hydra en el proyecto de nuestro Git Hub:
+Comandos en la termina de VS code
+1- cd Analizador.2
+2- antlr4 -visitor -no-listener Hydra.g4
+3- javac *.java
+4- java Main
+
